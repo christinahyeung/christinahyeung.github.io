@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D. student at the University of Washington, where I am co-advised by [Franziska Roesner](https://www.franziroesner.com/) and [Tadayoshi Kohno](https://homes.cs.washington.edu/~yoshi/). My research interests lie in web measurement, and making the internet a more transparent, safe place. My work broadly focuses on consumer protection, and understanding how we can improve people's security and privacy through building more secure systems, and developing stronger policies.
+I am a second year Ph.D. student at the University of Washington, where I am co-advised by [Franziska Roesner](https://www.franziroesner.com/) and [Tadayoshi Kohno](https://homes.cs.washington.edu/~yoshi/). My research interests lie in web measurement, and making the internet a more transparent, safe place. My work broadly focuses on consumer protection, and improving people's security and privacy through building more secure systems, and developing stronger policies.
 
 [Curriculum Vitae](https://christinahyeung.github.io/files/Yeung_CV.pdf) (Updated March 2023)
 
