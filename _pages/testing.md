@@ -19,8 +19,8 @@ title: "This page is for testing"
 <p>Test 4: This is testing only alt text on the image: should be seen as both alt text, and computed name (pink flower)</p>
 <a href="foo.html" test><img src="{{site.baseurl | prepend: site.url}}/assets/img/flower.png" alt="Pink flower"></a>
 
-<p>Test 5: This is testing how ARIA labels override alt text: computed name should match ARIA label (acutal overriding text), and alt-text and title should appear crossed out</p>
-<a href="foo.html"><img src="{{site.baseurl | prepend: site.url}}/assets/img/flower.png" alt="Pink flower" title = 'title 5 text' aria-label="Actual overriding text"></a>
+<p>Test 5: This is testing how ARIA labels override alt text: computed name should match ARIA label (acutal overriding text), and combine it with title text. Alt text should not be read</p>
+<a href="foo.html"><img src="{{site.baseurl | prepend: site.url}}/assets/img/flower.png" alt="Pink flower" title = 'title 5 text' aria-label="Aria label text"></a>
 
 <p>Test 6: This is showing how the div contents inside an a href can be reflected (and  repeated)</p>
 <a href="foo.html">
