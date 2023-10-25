@@ -45,7 +45,8 @@ title: "This page is for testing"
             </div>
         </div>
     </a>
-<p>Test 8: Back to overriding with ARIA-labels</p>
+
+<p>Test 8: Back to overriding with ARIA-labels in the a tag</p>
 <a href="foo.html" aria-label = 'arialabeltext'>
         <img src="{{site.baseurl | prepend: site.url}}/assets/img/flower.png" alt='this is a pink flower'>
         <div class="bt-wrapper">
@@ -56,3 +57,8 @@ title: "This page is for testing"
             </div>
         </div>
     </a>
+
+<p>Test 9: Using ARIA labels to give div tags roles</p>
+ <div role="img" alt="heart">
+ ♥︎
+ </div>
