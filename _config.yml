@@ -177,7 +177,8 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-
+url: 'https://christinahyeung.github.io/' # your main domain
+baseurl: 'christinahyeung.github.io/'
 # Defaults
 defaults:
   # _posts
