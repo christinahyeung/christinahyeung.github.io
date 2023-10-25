@@ -10,13 +10,13 @@ title: "This page is for testing"
 
 
 <p>Test 2: Adding a title</p>
-<a href="/" title="This is a title">Test 2: This is body text</a>
+<a href="/foo.html" title="This is a title">Test 2: This is body text</a>
 
-<p>Test 3: Overriding a title</p>
-<a href="foo.html" title='Test 3 not seen'>This is the property name</a>
+<p>Test 3: There is title text and alt text: which does the screen viewer see?</p>
+<a href="foo.html" title ="This is test 3 title text"><img src="{{site.baseurl | prepend: site.url}}/assets/img/flower.png" alt="Pink flower"></a>
 
 <p>Test 4: This is testing alt text: should be seen as both alt text, and computed name (pink flower)</p>
-<a href="foo.html"><img src="{{site.baseurl | prepend: site.url}}/assets/img/flower.png" alt="Pink flower"></a>
+<a href="foo.html" test><img src="{{site.baseurl | prepend: site.url}}/assets/img/flower.png" alt="Pink flower"></a>
 
 <p>Test 5: This is testing how ARIA labels override alt text: computed name should match ARIA label (acutal overriding text), and alt-text should appear crossed out</p>
 <a href="foo.html"><img src="{{site.baseurl | prepend: site.url}}/assets/img/flower.png" alt="Pink flower" aria-label="Actual overriding text"></a>
