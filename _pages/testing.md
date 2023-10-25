@@ -13,7 +13,7 @@ title: "This page is for testing"
 <a href="/foo.html" title="This is a title">Test 2: This is body text</a>
 
 <p>Test 3: There is title text and alt text: which does the screen viewer see?</p>
-<a href="foo.html" title ="This is test 3 title text"><img src="{{site.baseurl | prepend: site.url}}/assets/img/flower.png" alt="Pink flower"></a>
+<a href="foo.html" title ="This is test 3 title text"><img src="{{site.baseurl | prepend: site.url}}/assets/img/flower.png" alt="Pink flower" title='image title text'></a>
 
 <p>Test 4: This is testing alt text: should be seen as both alt text, and computed name (pink flower)</p>
 <a href="foo.html" test><img src="{{site.baseurl | prepend: site.url}}/assets/img/flower.png" alt="Pink flower"></a>
