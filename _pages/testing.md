@@ -16,14 +16,14 @@ title: "This page is for testing"
 <a href="foo.html" title='Test 3 not seen'>This is the property name</a>
 
 <p>Test 4: This is testing alt text: should be seen as both alt text, and computed name (pink flower)</p>
-<a href="foo.html"><img src="{{site.baseurl | prepend: site.url}}/assets/img/flower.png" alt="Pink flower"></a>
+<a href="foo.html"><img src="assets/img/flower.png" alt="Pink flower"></a>
 
 <p>Test 5: This is testing how ARIA labels override alt text: computed name should match ARIA label (acutal overriding text), and alt-text should appear crossed out</p>
-<a href="foo.html"><img src="{{site.baseurl | prepend: site.url}}/assets/img/flower.png" alt="Pink flower" aria-label="Actual overriding text"></a>
+<a href="foo.html"><img src="assets/img/flower.png" alt="Pink flower" aria-label="Actual overriding text"></a>
 
 <p>Test 6: This is showing how the div contents inside an a href can be reflected (and  repeated)</p>
 <a href="foo.html">
-        <img src="{{site.baseurl | prepend: site.url}}/assets/img/flower.png">
+        <img src="assets/img/flower.png">
         <div class="bt-wrapper">
             <div class="bt-wrapper-inner">
                 <div class="bt-sponsored">Line 1</div>
@@ -35,7 +35,7 @@ title: "This page is for testing"
 
 <p>Test 7: Should combine alt text with div contents</p>
 <a href="foo.html">
-        <img src="{{site.baseurl | prepend: site.url}}/assets/img/flower.png" alt='this is a pink flower'>
+        <img src="assets/img/flower.png" alt='this is a pink flower'>
         <div class="bt-wrapper">
             <div class="bt-wrapper-inner">
                 <div class="bt-sponsored">Line 1</div>
@@ -46,7 +46,7 @@ title: "This page is for testing"
     </a>
 <p>Test 8: Back to overriding with ARIA-labels</p>
 <a href="foo.html" aria-label = 'arialabeltext'>
-        <img src="{{site.baseurl | prepend: site.url}}/assets/img/flower.png" alt='this is a pink flower'>
+        <img src="assets/img/flower.png" alt='this is a pink flower'>
         <div class="bt-wrapper">
             <div class="bt-wrapper-inner">
                 <div class="bt-sponsored">Line 1</div>
