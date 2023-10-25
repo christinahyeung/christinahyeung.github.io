@@ -58,7 +58,7 @@ title: "This page is for testing"
         </div>
     </a>
 
-<p>Test 9: Using ARIA labels to give div tags roles</p>
- <div role="img" alt="heart">
+<p>Test 9: tabbable div with aria-role</p>
+<div role="img" alt="heart" tabindex="0">
  ♥︎
  </div>
