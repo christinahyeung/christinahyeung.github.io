@@ -2,4 +2,8 @@
 permalink: /testing/
 ---
 
- <div><iframe src="https://aemichael.github.io/" title="Alexandra sible website"></iframe> </div>
+<html>
+  <head>
+    <META http-equiv="refresh" content="0;URL=/files/index.html">
+  </head>
+</html>
