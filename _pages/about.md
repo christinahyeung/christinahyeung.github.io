@@ -8,16 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student at the University of Washington, where I am co-advised by [Franziska Roesner](https://www.franziroesner.com/) and [Tadayoshi Kohno](https://homes.cs.washington.edu/~yoshi/). My research interests lie in web measurement, and making the internet a more transparent, safe place. My work broadly focuses on consumer protection, and improving people's security and privacy through developing stronger policies or building stronger systems.
+I am a fourth year Ph.D. student at the University of Washington, where I am co-advised by [Franziska Roesner](https://www.franziroesner.com/). My research interests lie in web measurement, and making the internet a more transparent, safe place. My work broadly focuses on consumer protection, and improving people's security and privacy through developing stronger policies or building stronger systems.
 
 [Curriculum Vitae](https://christinahyeung.github.io/files/Yeung_CV.pdf) (Updated March 2023)
 
 Publications
 ======
 
+**Analyzing the (In)Accessibility of Online Advertisements**\\
+**Christina Yeung**, Tadayoshi Kohno, Franziska Roesner\\
+*Internet Measurement Conference 2024, Madrid, Spain*\\
+[preprint pdf](https://christinahyeung.github.io/files/accessible_ads.pdf)
+
 **Online Advertising in Ukraine and Russia During the 2022 Russian Invasion**\\
 **Christina Yeung**, Umar Iqbal, Yekaterina Tsipenyuk O’Neil, Tadayoshi Kohno, Franziska Roesner\\
-*The Web Conference 2023, Austin TX, 2023*\\
+*The Web Conference 2023, Austin TX*\\
 [preprint pdf](https://christinahyeung.github.io/files/russia_ukraine_ads_www2023.pdf)
 
 **Bad Job: Abusive Work on Alternative Microtask Platforms**\\
