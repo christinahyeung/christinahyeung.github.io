@@ -16,7 +16,7 @@ Publications
 ======
 **"We’re utterly ill-prepared to deal with something like this": Teachers’ Perspectives on Student Generation of Synthetic Nonconsensual Explicit Imagery**\\
 Miranda Wei, **Christina Yeung**, Franziska Roesner, Tadayoshi Kohno\\
-In Proceedings of the CHI Conference on Human Factors in Computing Systems, Apr 2025, Yokohama, Japan\\
+*Conference on Human Factors in Computing Systems (CHI), Apr 2025, Yokohama, Japan*\\
 [PDF](https://christinahyeung.github.io/files/chi25_utterly_illprepared.pdf)
 
 **Analyzing the (In)Accessibility of Online Advertisements**\\
