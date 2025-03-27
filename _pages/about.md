@@ -10,20 +10,31 @@ redirect_from:
 
 I am a fourth year Ph.D. student at the University of Washington, where I am co-advised by [Franziska Roesner](https://www.franziroesner.com/). My research interests lie in web measurement, and making the internet a more transparent, safe place. My work broadly focuses on consumer protection, and improving people's security and privacy through developing stronger policies or building stronger systems.
 
-[Curriculum Vitae](https://christinahyeung.github.io/files/Yeung_CV.pdf) (Updated March 2023)
+[Curriculum Vitae](https://christinahyeung.github.io/files/Yeung_CV.pdf) (Updated March 2025)
 
 Publications
 ======
+**"We\’re utterly ill-prepared to deal with something like this": Teachers\’ Perspectives on Student Generation of Synthetic Nonconsensual Explicit Imagery**\\
+Miranda Wei, **Christina Yeung**, Franziska Roesner, Tadayoshi Kohno\\
+In Proceedings of the CHI Conference on Human Factors in Computing Systems, Apr 2025, Yokohama, Japan\\
+[PDF](https://christinahyeung.github.io/files/chi25_utterly_illprepared.pdf)
 
 **Analyzing the (In)Accessibility of Online Advertisements**\\
 **Christina Yeung**, Tadayoshi Kohno, Franziska Roesner\\
 *Internet Measurement Conference 2024, Madrid, Spain*\\
-[preprint pdf](https://christinahyeung.github.io/files/accessible_ads.pdf)
+[PDF](https://christinahyeung.github.io/files/accessible_ads.pdf)
+**Best paper award**
+
+**Gender Biases in Tone Analysis: A Case Study of a Commercial Wearable Device**\\
+**Christina Yeung**, Umar Iqbal, Tadayoshi Kohno, Franziska Roesner\\
+*Equity and Access in Algorithms, Mechanisms, and Optimization 2023, Boston, MA\\
+[PDF] (https://christinahyeung.github.io/files/Gender Biases in Tone Analysis_ A Case Study of a Commercial Wearable Device.pdf)
 
 **Online Advertising in Ukraine and Russia During the 2022 Russian Invasion**\\
 **Christina Yeung**, Umar Iqbal, Yekaterina Tsipenyuk O’Neil, Tadayoshi Kohno, Franziska Roesner\\
 *The Web Conference 2023, Austin TX*\\
 [preprint pdf](https://christinahyeung.github.io/files/russia_ukraine_ads_www2023.pdf)
+**Spotlighted paper**
 
 **Bad Job: Abusive Work on Alternative Microtask Platforms**\\
 **Christina Yeung**, Daniel Salsburg, Joseph A. Calandrino\\
