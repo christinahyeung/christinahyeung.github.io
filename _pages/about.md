@@ -28,7 +28,7 @@ In Proceedings of the CHI Conference on Human Factors in Computing Systems, Apr 
 **Gender Biases in Tone Analysis: A Case Study of a Commercial Wearable Device**\\
 **Christina Yeung**, Umar Iqbal, Tadayoshi Kohno, Franziska Roesner\\
 *Equity and Access in Algorithms, Mechanisms, and Optimization 2023, Boston, MA\\
-[PDF] (https://christinahyeung.github.io/files/Gender Biases in Tone Analysis_ A Case Study of a Commercial Wearable Device.pdf)
+[PDF] (https://christinahyeung.github.io/files/genderbias.pdf)
 
 **Online Advertising in Ukraine and Russia During the 2022 Russian Invasion**\\
 **Christina Yeung**, Umar Iqbal, Yekaterina Tsipenyuk O’Neil, Tadayoshi Kohno, Franziska Roesner\\
