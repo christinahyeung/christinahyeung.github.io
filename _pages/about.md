@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-======
 I am a fourth year Ph.D. student at the University of Washington, where I am co-advised by [Franziska Roesner](https://www.franziroesner.com/). My research interests lie in web measurement, and making the internet a more transparent, safe place. My work broadly focuses on consumer protection, and improving people's security and privacy through developing stronger policies or building stronger systems.
 
 [Curriculum Vitae](https://christinahyeung.github.io/files/Yeung_CV.pdf) (Updated March 2025)
