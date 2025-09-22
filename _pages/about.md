@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Ph.D. student at the University of Washington, where I am co-advised by [Franziska Roesner](https://www.franziroesner.com/). My research interests lie in web measurement, and making the internet a more transparent, safe place. My work broadly focuses on consumer protection, and improving people's security and privacy through developing stronger policies or building stronger systems.
+I am a fifth year Ph.D. student at the University of Washington, where I am advised by [Franziska Roesner](https://www.franziroesner.com/). My research focuses on ubiquitous online ads, the (over)collection of personal data to train generative AI models, and the growing amount of AI slop on the internet. I combine measurement techniques that bring insight into current practices and norms with qualitative methods that provide more context into how and why these ecosystems affect people. Through my work, I hope to influence policy and promote the implementation of technical solutions to make the internet easier and safer to navigate for everybody.
 
 [Curriculum Vitae](https://christinahyeung.github.io/files/Yeung_CV.pdf) (Updated March 2025)
 
